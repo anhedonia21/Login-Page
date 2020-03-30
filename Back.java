@@ -52,6 +52,7 @@ public class Back {
 
                     if (i == x + y) {
                         System.out.println("Access Granted");
+                        System.out.println("Human verification completed");
                         System.out.println("Welcome to the system");
                         break;
                     }
