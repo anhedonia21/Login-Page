@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Back {
 
-    Random kes = new Random();
+    Random rand = new Random();
     Scanner scan = new Scanner(System.in);
 
 
@@ -44,8 +44,8 @@ public class Back {
                 for (int b = 5;; b++) {
 
                     System.out.println("Try it again");
-                    x = kes.nextInt(30-1);
-                    y = kes.nextInt(30-1);
+                    x = rand.nextInt(30-1);
+                    y = rand.nextInt(30-1);
                     System.out.println("What is the result? " + x + " + " + y);
 
                     int i = scan.nextInt();
