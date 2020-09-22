@@ -1,6 +1,6 @@
 # Login-Page
-Tried to make a login page similar to social medias in Java
+Have tried to make a login page similar to websites
 
-If you want to run the code, open Front.java and run it.
+You need to run "First.java" to use it
 
-It's really basic code I wrote so please don't wait too much thing from this code.
+It's my first project and it's too basic so don't expect much things...
