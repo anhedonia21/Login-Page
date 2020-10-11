@@ -1,6 +1,3 @@
 # Login-Page
-Have tried to make a login page similar to websites
-
-You need to run "First.java" to use it
-
-It's my first project and it's too basic so don't expect much things...
+It's my first project on Java, my first project on github actually
+I coded this when I was a beginner, so it's some kind of basic project to have fun :)
